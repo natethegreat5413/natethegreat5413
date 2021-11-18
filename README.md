@@ -28,10 +28,10 @@ Hi, I'm Nate.  I'm a software engineer, recently graduated from Lambda School.  
   • Movies
 
 ### Favorite Language...
-  • Python
+  • Javascript
 
 ### Favorite Front-End Framework/Library...
-  • React
+  • React-Native
 
 ### Favorite Back-End Framework/Library...
   • Node.js
