@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Nate.  I'm a software engineer, graduated from Lambda School.  I love to build web apps that help solve problems in the everyday life of individuals around me.  I grew up building things with my hands from wood and metal and am very excited to expand my abilities with my newly acquired developer skills.
+Hi, I'm Nate.  I'm a software engineer, graduated from Bloomtech (formerly Lambda School) and am currently pursuing a bachelors in Computer Science.  I love to build web apps that help solve problems in the everyday life of individuals around me.  I grew up building things with my hands from wood and metal and am very excited to expand my abilities with my newly acquired developer skills.
 
 ### Things I love...
   • Coding
 
-  • Motorcycles
+  • Mountain Bikes
 
   • Family/Friends
 
